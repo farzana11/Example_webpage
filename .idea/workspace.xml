@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b2abf4f-2114-4723-99d4-59bad0ba1511" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Badges.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/list_groups.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Linked _items.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Example_webpage.iws" />
@@ -32,8 +31,8 @@
       <file leaf-file-name="broken.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/broken.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="1800">
-              <caret line="3" column="26" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="72" />
+            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="1800">
+              <caret line="4" column="60" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -49,11 +48,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Badges.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Badges.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/Badges.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.53859967" vertical-offset="0" max-vertical-offset="557">
+            <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="495">
               <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Linked _items.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/Linked _items.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.40394974" vertical-offset="0" max-vertical-offset="557">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -82,6 +91,7 @@
         <option value="$PROJECT_DIR$/dist/tables.html" />
         <option value="$PROJECT_DIR$/dist/list_groups.html" />
         <option value="$PROJECT_DIR$/dist/Badges.html" />
+        <option value="$PROJECT_DIR$/dist/Linked _items.html" />
       </list>
     </option>
   </component>
@@ -318,18 +328,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/broken.html">
+    <entry file="file://$PROJECT_DIR$/dist/Badges.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="1800">
-          <caret line="3" column="26" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="72" />
+        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="495">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/Badges.html">
+    <entry file="file://$PROJECT_DIR$/dist/broken.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53859967" vertical-offset="0" max-vertical-offset="557">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="1800">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/Linked _items.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40394974" vertical-offset="0" max-vertical-offset="557">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
           <folding />
         </state>
       </provider>
