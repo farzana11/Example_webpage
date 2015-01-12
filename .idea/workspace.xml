@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b2abf4f-2114-4723-99d4-59bad0ba1511" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Custom_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Media_object.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Example_webpage.iws" />
@@ -31,18 +31,28 @@
       <file leaf-file-name="broken.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/broken.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="1800">
-              <caret line="4" column="48" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="72" />
+            <state vertical-scroll-proportion="-4.9583335" vertical-offset="101" max-vertical-offset="2400">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Custom_content.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Custom_content.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/Custom_content.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2962298" vertical-offset="0" max-vertical-offset="557">
+            <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="315">
               <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Media_object.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/Media_object.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9080882" vertical-offset="356" max-vertical-offset="1075">
+              <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -75,6 +85,7 @@
         <option value="$PROJECT_DIR$/dist/Disabled_items.html" />
         <option value="$PROJECT_DIR$/dist/Contextual_classes.html" />
         <option value="$PROJECT_DIR$/dist/Custom_content.html" />
+        <option value="$PROJECT_DIR$/dist/Media_object.html" />
       </list>
     </option>
   </component>
@@ -343,18 +354,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/broken.html">
+    <entry file="file://$PROJECT_DIR$/dist/Custom_content.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="1800">
-          <caret line="4" column="48" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="72" />
+        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="315">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/Custom_content.html">
+    <entry file="file://$PROJECT_DIR$/dist/broken.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2962298" vertical-offset="0" max-vertical-offset="557">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        <state vertical-scroll-proportion="-4.9583335" vertical-offset="101" max-vertical-offset="2400">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/Media_object.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9080882" vertical-offset="356" max-vertical-offset="1075">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
           <folding />
         </state>
       </provider>
