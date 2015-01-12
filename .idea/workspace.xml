@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b2abf4f-2114-4723-99d4-59bad0ba1511" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/progress_bar.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/Responsive_embed.html" afterPath="$PROJECT_DIR$/dist/Responsive_embed.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -39,10 +38,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="progress_bar.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="progress_bar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/progress_bar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.94485295" vertical-offset="731" max-vertical-offset="1365">
+            <state vertical-scroll-proportion="-21.416666" vertical-offset="731" max-vertical-offset="1365">
               <caret line="83" column="6" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -61,6 +60,16 @@
                 <element signature="n#style#0;n#div#1;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Responsive_embed.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/Responsive_embed.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5735568" vertical-offset="0" max-vertical-offset="537">
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -93,8 +102,8 @@
         <option value="$PROJECT_DIR$/dist/Custom_content.html" />
         <option value="$PROJECT_DIR$/dist/Media_object.html" />
         <option value="$PROJECT_DIR$/dist/Media_list.html" />
-        <option value="$PROJECT_DIR$/dist/Responsive_embed.html" />
         <option value="$PROJECT_DIR$/dist/progress_bar.html" />
+        <option value="$PROJECT_DIR$/dist/Responsive_embed.html" />
       </list>
     </option>
   </component>
@@ -355,14 +364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/Responsive_embed.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38446602" vertical-offset="0" max-vertical-offset="515">
-          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/example.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.4728972" vertical-offset="253" max-vertical-offset="810">
@@ -405,7 +406,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/progress_bar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.94485295" vertical-offset="731" max-vertical-offset="1365">
+        <state vertical-scroll-proportion="-21.416666" vertical-offset="731" max-vertical-offset="1365">
           <caret line="83" column="6" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -424,6 +425,14 @@
             <element signature="n#style#0;n#div#1;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/Responsive_embed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5735568" vertical-offset="0" max-vertical-offset="537">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
