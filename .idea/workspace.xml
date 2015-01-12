@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b2abf4f-2114-4723-99d4-59bad0ba1511" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Disabled_items.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Contextual_classes.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Example_webpage.iws" />
@@ -32,47 +32,17 @@
         <entry file="file://$PROJECT_DIR$/dist/broken.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="1800">
-              <caret line="4" column="60" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="72" />
+              <caret line="4" column="41" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="poker.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/poker.html">
+      <file leaf-file-name="Contextual_classes.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/Contextual_classes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.75" vertical-offset="1215" max-vertical-offset="4110">
-              <caret line="111" column="34" selection-start-line="105" selection-start-column="19" selection-end-line="114" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Badges.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/Badges.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="495">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Linked _items.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/Linked _items.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="360">
-              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Disabled_items.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dist/Disabled_items.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4308797" vertical-offset="0" max-vertical-offset="557">
-              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.51166964" vertical-offset="0" max-vertical-offset="557">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -103,6 +73,7 @@
         <option value="$PROJECT_DIR$/dist/Badges.html" />
         <option value="$PROJECT_DIR$/dist/Linked _items.html" />
         <option value="$PROJECT_DIR$/dist/Disabled_items.html" />
+        <option value="$PROJECT_DIR$/dist/Contextual_classes.html" />
       </list>
     </option>
   </component>
@@ -333,7 +304,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/poker.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.75" vertical-offset="1215" max-vertical-offset="4110">
+        <state vertical-scroll-proportion="0.8411215" vertical-offset="1215" max-vertical-offset="4110">
           <caret line="111" column="34" selection-start-line="105" selection-start-column="19" selection-end-line="114" selection-end-column="25" />
           <folding />
         </state>
@@ -341,7 +312,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/Badges.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="495">
+        <state vertical-scroll-proportion="0.53859967" vertical-offset="0" max-vertical-offset="557">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
@@ -349,8 +320,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/Linked _items.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="360">
+        <state vertical-scroll-proportion="0.40394974" vertical-offset="0" max-vertical-offset="557">
           <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/Disabled_items.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4847397" vertical-offset="0" max-vertical-offset="557">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -358,15 +337,15 @@
     <entry file="file://$PROJECT_DIR$/dist/broken.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="1800">
-          <caret line="4" column="60" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="72" />
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/Disabled_items.html">
+    <entry file="file://$PROJECT_DIR$/dist/Contextual_classes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4308797" vertical-offset="0" max-vertical-offset="557">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.51166964" vertical-offset="0" max-vertical-offset="557">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
           <folding />
         </state>
       </provider>
