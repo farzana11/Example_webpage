@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b2abf4f-2114-4723-99d4-59bad0ba1511" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/panel_heading.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/panel_heading.html" afterPath="$PROJECT_DIR$/dist/panel_heading.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Example_webpage.iws" />
@@ -41,8 +41,8 @@
       <file leaf-file-name="panel_heading.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dist/panel_heading.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11849192" vertical-offset="0" max-vertical-offset="682">
-              <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+            <state vertical-scroll-proportion="1.12" vertical-offset="0" max-vertical-offset="792">
+              <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -273,8 +273,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/panel_heading.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11849192" vertical-offset="0" max-vertical-offset="682">
-          <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+        <state vertical-scroll-proportion="1.12" vertical-offset="0" max-vertical-offset="792">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
           <folding />
         </state>
       </provider>
